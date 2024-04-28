@@ -1,0 +1,8 @@
+{
+    "items": [
+      { "id": 1, "name": "Hammer", "description": "It is the strongest item on the bag, but so heavy" },
+      { "id": 2, "name": "Chocolate", "description": "It is good to recovery energy for a short period of time" },
+      { "id": 3, "name": "Watterbottle", "description": "Its durability is longer than anything else object on the bag. Recover energy efter using it" }
+    ]
+  }
+  
